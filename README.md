@@ -1,48 +1,35 @@
-<h1 align="center">Hi, I'm Nihar Gohel 👋</h1>
+# 💫 About Me:
 
-<p align="center">
-  MSc Computer Science (University of East London) · Data Analysis \& Machine Learning
-</p>
+I'm a Data Analyst with expertise in SQL, Python, Power BI, Tableau, and Machine Learning. My work focuses on transforming complex datasets into actionable insights through data analysis, visualization, predictive modelling, and business intelligence. This repository showcases practical, end-to-end analytics projects built using industry-standard tools and best practices.
 
-<p align="center">
-  <a href="mailto:gohelnihar1999@gmail.com">📧 Email</a> ·
-  <a href="linkedin.com/in/nihargohel">💼 LinkedIn</a> ·
-  <a href="https://github.com/NiharGohel/uk-road-safety-analysis">📊 Featured Project</a>
-</p>
+## 🌐 Socials:
 
-\---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihargohel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gohelnihar1999@gmail.com)
 
-### About Me
+## 💻 Tech Stack:
 
-* MSc Computer Science graduate, University of East London (2022–2023)
-* Interested in **data analysis, machine learning, and turning messy real-world data into decisions**
-* My dissertation analyzed **2 million+ UK road traffic accident records** to predict accident severity using Random Forest, Decision Tree, and Logistic Regression
-* Currently learning/exploring: *(add what you're studying now — e.g. SQL, cloud platforms, deep learning)*
-* Ask me about: pandas, exploratory data analysis, scikit-learn, data cleaning at scale
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Excel](https://img.shields.io/badge/microsoft%20excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Featured Project
+## 🚀 Projects
 
-[**UK Road Safety Analysis**](https://github.com/NiharGohel/uk-road-safety-analysis)
-Cleaned and merged 2M+ rows of UK accident \& vehicle data, ran exploratory analysis across 10+ dimensions (weather, road type, lighting, driver age), and trained 3 ML models to predict accident severity — Random Forest achieved 70% accuracy with 0.71 precision.
+| Project | Description | Tech |
+|---|---|---|
+| [UK Road Safety Analysis](https://github.com/NiharGohel/Uk-Road-Safety-Analysis) | Cleaned & merged 2M+ rows of UK accident/vehicle data, ran EDA across 10+ dimensions, trained 3 ML models to predict accident severity — Random Forest reached 70% accuracy | Python · Pandas · Scikit-learn · Matplotlib · Seaborn |
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
-### Tech Stack
-
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-!\[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-!\[scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-!\[Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
-!\[NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiharGohel\&show\_icons=true\&theme=default" alt="Nihar's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharGohel" alt="Nihar's GitHub streak" height="170"/>
-</p>
-
-\---
-
-<p align="center"><i>Open to data analyst / data science opportunities — feel free to reach out!</i></p>
+---
 
